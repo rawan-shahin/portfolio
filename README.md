@@ -1,4 +1,14 @@
-### Hi there 👋
+# Business Analyst
+
+### Education
+Chemical Engineering with Industrial Experience, MEng
+
+### Work Experience
+Business Transformation Analyst @ Deloitte UK
+- Project 1
+- Project 2
+
+### Projects
 
 <!--
 **rawan-shahin/rawan-shahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
