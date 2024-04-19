@@ -2,6 +2,8 @@
 
 This is a public repository of my personal projects for self-learning and development purposes.
 
+Tools: Python, Jupyter Notebook, SQL, Tableau, Excel
+
 ## Projects
 
 <!--
